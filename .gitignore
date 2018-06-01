@@ -1,0 +1,4 @@
+*.pyc
+newvenv
+venv
+*.log

@@ -2,3 +2,6 @@
 newvenv
 venv
 *.log
+myvenv
+
+__pycache__
